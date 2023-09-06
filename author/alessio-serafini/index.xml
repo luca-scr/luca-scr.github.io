@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alessio Serafini | Luca Scrucca</title>
-    <link>http://www.stat.unipg.it/luca/author/alessio-serafini/</link>
-      <atom:link href="http://www.stat.unipg.it/luca/author/alessio-serafini/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://luca-scr.github.io/author/alessio-serafini/</link>
+      <atom:link href="https://luca-scr.github.io/author/alessio-serafini/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessio Serafini</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Luca Scrucca</copyright><lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.stat.unipg.it/luca/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
+      <url>https://luca-scr.github.io/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
       <title>Alessio Serafini</title>
-      <link>http://www.stat.unipg.it/luca/author/alessio-serafini/</link>
+      <link>https://luca-scr.github.io/author/alessio-serafini/</link>
     </image>
     
     <item>
       <title>Projection pursuit based on Gaussian mixtures and evolutionary algorithms</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication06/</link>
+      <link>https://luca-scr.github.io/publication/publication06/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication06/</guid>
+      <guid>https://luca-scr.github.io/publication/publication06/</guid>
       <description></description>
     </item>
     

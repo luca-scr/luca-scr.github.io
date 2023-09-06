@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Luca Scrucca</title>
-    <link>http://www.stat.unipg.it/luca/publication-type/2/</link>
-      <atom:link href="http://www.stat.unipg.it/luca/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://luca-scr.github.io/publication-type/2/</link>
+      <atom:link href="https://luca-scr.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Luca Scrucca</copyright><lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.stat.unipg.it/luca/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
+      <url>https://luca-scr.github.io/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>http://www.stat.unipg.it/luca/publication-type/2/</link>
+      <link>https://luca-scr.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>Entropy-based anomaly detection for Gaussian mixture modeling</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication12/</link>
+      <link>https://luca-scr.github.io/publication/publication12/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication12/</guid>
+      <guid>https://luca-scr.github.io/publication/publication12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixture-based estimation of entropy</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication11/</link>
+      <link>https://luca-scr.github.io/publication/publication11/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication11/</guid>
+      <guid>https://luca-scr.github.io/publication/publication11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A COVINDEX based on a GAM beta regression model with an application to the COVID-19 pandemic in Italy</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication10/</link>
+      <link>https://luca-scr.github.io/publication/publication10/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication10/</guid>
+      <guid>https://luca-scr.github.io/publication/publication10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modal clustering on PPGMMGA projection subspace</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication09/</link>
+      <link>https://luca-scr.github.io/publication/publication09/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication09/</guid>
+      <guid>https://luca-scr.github.io/publication/publication09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Better than the best? Answers via model ensemble in density-based clustering</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication08/</link>
+      <link>https://luca-scr.github.io/publication/publication08/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication08/</guid>
+      <guid>https://luca-scr.github.io/publication/publication08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A fast and efficient Modal EM algorithm for Gaussian mixtures</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication07/</link>
+      <link>https://luca-scr.github.io/publication/publication07/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication07/</guid>
+      <guid>https://luca-scr.github.io/publication/publication07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projection pursuit based on Gaussian mixtures and evolutionary algorithms</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication06/</link>
+      <link>https://luca-scr.github.io/publication/publication06/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication06/</guid>
+      <guid>https://luca-scr.github.io/publication/publication06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-based clustering with sparse covariance matrices</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication05/</link>
+      <link>https://luca-scr.github.io/publication/publication05/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication05/</guid>
+      <guid>https://luca-scr.github.io/publication/publication05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A transformation-based approach to Gaussian mixture density estimation for bounded data</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication04/</link>
+      <link>https://luca-scr.github.io/publication/publication04/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication04/</guid>
+      <guid>https://luca-scr.github.io/publication/publication04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>clustvarsel: A Package Implementing Variable Selection for Gaussian Model-Based Clustering in R</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication03/</link>
+      <link>https://luca-scr.github.io/publication/publication03/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication03/</guid>
+      <guid>https://luca-scr.github.io/publication/publication03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Some Extensions to GA Package: Hybrid Optimisation, Parallelisation and Islands Evolution</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication01/</link>
+      <link>https://luca-scr.github.io/publication/publication01/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication01/</guid>
+      <guid>https://luca-scr.github.io/publication/publication01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mclust 5: Clustering, Classification and Density Estimation Using Gaussian Finite Mixture Models</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication02/</link>
+      <link>https://luca-scr.github.io/publication/publication02/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication02/</guid>
+      <guid>https://luca-scr.github.io/publication/publication02/</guid>
       <description></description>
     </item>
     

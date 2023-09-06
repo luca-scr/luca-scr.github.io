@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://www.stat.unipg.it/luca/sitemap.xml
+Sitemap: https://luca-scr.github.io/sitemap.xml

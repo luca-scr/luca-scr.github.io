@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software | Luca Scrucca</title>
-    <link>http://www.stat.unipg.it/luca/software/</link>
-      <atom:link href="http://www.stat.unipg.it/luca/software/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://luca-scr.github.io/software/</link>
+      <atom:link href="https://luca-scr.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Luca Scrucca</copyright>
     <image>
-      <url>http://www.stat.unipg.it/luca/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
+      <url>https://luca-scr.github.io/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
       <title>Software</title>
-      <link>http://www.stat.unipg.it/luca/software/</link>
+      <link>https://luca-scr.github.io/software/</link>
     </image>
     
   </channel>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adrian E. Raftery | Luca Scrucca</title>
-    <link>http://www.stat.unipg.it/luca/author/adrian-e.-raftery/</link>
-      <atom:link href="http://www.stat.unipg.it/luca/author/adrian-e.-raftery/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://luca-scr.github.io/author/adrian-e.-raftery/</link>
+      <atom:link href="https://luca-scr.github.io/author/adrian-e.-raftery/index.xml" rel="self" type="application/rss+xml" />
     <description>Adrian E. Raftery</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Luca Scrucca</copyright><lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.stat.unipg.it/luca/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
+      <url>https://luca-scr.github.io/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
       <title>Adrian E. Raftery</title>
-      <link>http://www.stat.unipg.it/luca/author/adrian-e.-raftery/</link>
+      <link>https://luca-scr.github.io/author/adrian-e.-raftery/</link>
     </image>
     
     <item>
       <title>clustvarsel: A Package Implementing Variable Selection for Gaussian Model-Based Clustering in R</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication03/</link>
+      <link>https://luca-scr.github.io/publication/publication03/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication03/</guid>
+      <guid>https://luca-scr.github.io/publication/publication03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mclust 5: Clustering, Classification and Density Estimation Using Gaussian Finite Mixture Models</title>
-      <link>http://www.stat.unipg.it/luca/publication/publication02/</link>
+      <link>https://luca-scr.github.io/publication/publication02/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.stat.unipg.it/luca/publication/publication02/</guid>
+      <guid>https://luca-scr.github.io/publication/publication02/</guid>
       <description></description>
     </item>
     
