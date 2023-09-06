@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Fop | Luca Scrucca</title>
+    <link>http://www.stat.unipg.it/luca/author/michael-fop/</link>
+      <atom:link href="http://www.stat.unipg.it/luca/author/michael-fop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Fop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Luca Scrucca</copyright><lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.stat.unipg.it/luca/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
+      <title>Michael Fop</title>
+      <link>http://www.stat.unipg.it/luca/author/michael-fop/</link>
+    </image>
+    
+    <item>
+      <title>Model-based clustering with sparse covariance matrices</title>
+      <link>http://www.stat.unipg.it/luca/publication/publication05/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.stat.unipg.it/luca/publication/publication05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mclust 5: Clustering, Classification and Density Estimation Using Gaussian Finite Mixture Models</title>
+      <link>http://www.stat.unipg.it/luca/publication/publication02/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://www.stat.unipg.it/luca/publication/publication02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

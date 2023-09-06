@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings | Luca Scrucca</title>
+    <link>http://www.stat.unipg.it/luca/teaching/</link>
+      <atom:link href="http://www.stat.unipg.it/luca/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Luca Scrucca</copyright><lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.stat.unipg.it/luca/media/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
+      <title>Teachings</title>
+      <link>http://www.stat.unipg.it/luca/teaching/</link>
+    </image>
+    
+  </channel>
+</rss>
