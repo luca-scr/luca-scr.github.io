@@ -51,8 +51,7 @@ quarto::quarto_render()
 Push to GitHub:
 
 ```{r}
-# setwd("public/")
-system(paste0('git add public && git commit -m "update"'))
+system(paste0('git add --all && git commit -m "update"'))
 system("git push origin main")
 # setwd("../")
 ```
