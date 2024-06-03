@@ -5,7 +5,7 @@ project:
     - "*.qmd"
     - "!misc/"
   post-render:
-  - "cp -rv static/. public/"
+  - "cp -rv static/. docs/"
 
 website:
   title: "Luca Scrucca"

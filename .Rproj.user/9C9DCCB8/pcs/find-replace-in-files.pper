@@ -1,15 +1,15 @@
 {
     "dialog-state": {
-        "query": "_new",
+        "query": "public",
         "path": "",
         "regex": false,
         "caseSensitive": false,
         "wholeWord": false,
         "filePatterns": [],
-        "useGitGrep": false,
+        "useGitGrep": true,
         "excludeGitIgnore": true,
         "excludeFilePatterns": [],
-        "resultsCount": 0,
+        "resultsCount": 40,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true
