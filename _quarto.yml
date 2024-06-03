@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: public
+  render:
+    - "*.qmd"
+    - "!misc/"
+  post-render:
+  - "cp -rv static/. public/"
+
+website:
+  title: "Luca Scrucca"
+  site-url: https://luca-scr.github.io
+  favicon: "media/favicon.png"
+  twitter-card: true
+  google-analytics: "UA-5097379-1"
+  page-navigation: true
+
+  navbar:
+    background: dark
+    # logo: 
+    search: true
+    left:
+      - text: "Research"
+        href: ./index.qmd#research
+      - text: "Software"
+        href: ./index.qmd#software
+      - text: "Teaching"
+        href: ./index.qmd#teaching
+      - text: "Contact"
+        href: ./index.qmd#contact
+      # - text: "Projects"
+      #   href: projects/index.qmd
+      # - text: "Talks"
+      #   href: talks/index.qmd
+      # - text: "Blog"
+      #   href: blog.qmd
+
+  page-footer:
+    left: "&copy; 2024 Luca Scrucca"
+    right: "Website created with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      light: [Yeti, theme-custom.scss] 
+      dark: [Yeti, theme-custom.scss, theme-dark.scss]
+    # css: styles.css
+    fontsize: 1.1rem
+    toc: true
+    page-layout: full
+    email-obfuscation: javascript
+
+

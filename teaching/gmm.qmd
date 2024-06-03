@@ -1,0 +1,49 @@
+---
+title: |
+       | Gaussian Mixture Models for Model-Based Clustering,
+       | Classification, and Density Estimation
+       |
+subtitle: |
+          | *PhD course*
+          | Dottorato in Matematica Informatica e Statistica (UniFI, UniPG, INdAM)
+          | Dottorato in Economia (UniPG)
+---
+
+#### Contents
+
+- Finite mixture models
+- Gaussian mixture models
+- MLE via EM algorithm
+- `mclust` R package
+- Model-based clustering
+- Model selection
+- Classification using Gaussian mixture models
+- Density estimation via finite mixture modelling
+- Semi-supervised learning
+
+    Class [*slides*](./GMM_slides_2up.pdf) (pwd protected).
+
+#### Course schedule
+
+- 25 Mar 2024   from 12:30 to 14:30
+- 26 Mar 2024   from 10:30 to 12:30
+- 27 Mar 2024   from 08:30 to 10:30
+- 10 Apr 2024   from 12:30 to 14:30
+- 11 Apr 2024   from 10:30 to 12:30
+- 12 Apr 2024   from 08:30 to 10:30
+
+<!--
+#### Reading list
+
+- Class [*slides*](./GMM_slides_2up.pdf) (pwd protected).
+
+- Bouveyron C., Celeux G., Murphy T.B. and Raftery A.E. (2019) *Model-Based Clustering and Classification for Data Science: With Applications in R*. Cambridge University Press. https://math.unice.fr/~cbouveyr/MBCbook/ (pdf of all book chapters freely available).
+
+- Scrucca L., Fraley C., Murphy T.B. and Raftery A.E. (2023) *Model-Based Clustering, Classification and Density Estimation Using mclust in R*. Chapman & Hall/CRC Press. https://mclust-org.github.io/book
+
+- Scrucca L., Fop. M., Murphy T. B. and Raftery A. E. (2016) mclust 5: clustering, classification and density estimation using Gaussian finite mixture models. *The R Journal*, 8:1, pp. 205--233. https://doi.org/10.32614/RJ-2016-021
+
+- Fraley C., Raftery A. E. (2002) Model‐based clustering, discriminant analysis, and density estimation. *Journal of the American Statistical Association*, 97:458, pp. 611--631.
+
+- McLachlan G., Peel D. (2000) *Finite Mixture Models*. Wiley.
+-->

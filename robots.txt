@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://luca-scr.github.io/sitemap.xml

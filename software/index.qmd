@@ -1,0 +1,144 @@
+---
+title: Software
+subtitle: R packages and functions
+---
+
+
+## mclust: Normal Mixture Modeling for Model-Based Clustering, Classification, and Density Estimation
+
+An R package for normal mixture modeling fitted via EM algorithm for model-based clustering, classification, and density estimation, including Bayesian regularization.
+
+- `mclust` is available on [CRAN](https://cran.r-project.org/package=mclust) 
+- Authors: Chris Fraley, Adrian Raftery and Luca Scrucca
+- Package [vignette](https://cran.r-project.org/web/packages/mclust/vignettes/mclust.html)
+- Webpage: <https://mclust-org.github.io/mclust>
+
+
+## mclustAddons: Addons for the `mclust` Package
+
+Extend the functionality of the `mclust` package for Gaussian finite mixture modelling by including: density estimation for data with bounded support (Scrucca, 2019 <doi:10.1002/bimj.201800174>); modal clustering using MEM algorithm for Gaussian mixtures (Scrucca, 2021 <doi:10.1002/sam.11527>).
+
+- `mclustAddons` is available on [CRAN](https://cran.r-project.org/package=mclustAddons) 
+- Authors: Luca Scrucca
+- Package [vignette](https://cran.r-project.org/web/packages/mclustAddons/vignettes/mclustAddons.html)
+- Webpage: <https://mclust-org.github.io/mclustAddons>
+
+
+## ppgmmga: Projection Pursuit Based on Gaussian Mixtures and Evolutionary Algorithms
+
+An R package implementing a Projection Pursuit (PP) algorithm for dimension reduction based on Gaussian Mixture Models (GMMs) for density estimation using Genetic Algorithms (GAs) to maximise an approximated negentropy index.
+
+- `ppgmmga` is available on [CRAN](https://cran.r-project.org/package=ppgmmga) 
+- Authors: Alessio Serafini, Luca Scrucca
+- Package [vignette](https://cran.r-project.org/web/packages/ppgmmga/vignettes/ppgmmga.html)
+- Webpage: <https://mclust-org.github.io/ppgmmga>
+
+
+## mixggm: Mixtures of Gaussian Graphical Models
+
+An R package implementing mixtures of Gaussian graphical models for model-based clustering with sparse covariance and concentration matrices.
+
+- `mixggm` is available on [CRAN](https://cran.r-project.org/package=mixggm) 
+- Authors: Michael Fop, Luca Scrucca, Thomas Brendan Murphy 
+
+<!--
+- Package [vignette](https://cran.r-project.org/web/packages/ppgmmga/vignettes/ppgmmga.html)
+- Webpage: https://mclust-org.github.io/mixggm
+-->
+
+
+## clustvarsel: Variable Selection for Model-Based Clustering
+
+An R package implementing variable selection methodology for Gaussian model-based clustering which allows to find the (locally) optimal subset of variables in a data set that have group/cluster information. 
+A greedy or headlong search can be used, either in a forward-backward or backward-forward direction, with or without sub-sampling at the hierarchical clustering stage for starting MCLUST models. By default the algorithm uses a sequential search, but parallelisation is also available.
+
+- `clustvarsel` is available on [CRAN](https://cran.r-project.org/package=clustvarsel)
+- Authors: Nema Dean, Adrian E. Raftery, and Luca Scrucca
+- Package [vignette](https://cran.r-project.org/web/packages/clustvarsel/vignettes/clustvarsel.html)
+- Webpage: <https://mclust-org.github.io/clustvarsel>
+
+
+## GA: Genetic Algorithms
+
+This R package provides a flexible general-purpose set of tools for optimization using genetic algorithms.
+GAs search are available for both the continuous and the discrete case, whether constrained or not. Users can easily define their own objective function depending on the problem at hand.  Several genetic operators are available and can be combined to explore the best settings for the current task. Furthermore, users can define new genetic operators and easily evaluate their performances. GAs can be run sequentially or in parallel.
+
+- `GA` is available on [CRAN](https://cran.r-project.org/package=GA)
+- Author: Luca Scrucca
+- Package [vignette](https://cran.r-project.org/web/packages/GA/vignettes/GA.html)
+- Webpage: <http://luca-scr.github.io/GA/>
+
+
+## qcc: Quality Control Charts
+
+Shewhart quality control charts for continuous, attribute and count data. Cusum and EWMA charts. Operating characteristic curves. Process capability analysis. Pareto chart and cause-and-effect chart. Multivariate control charts.
+
+- `qcc` is available on [CRAN](https://cran.r-project.org/package=qcc)
+- Author: Luca Scrucca
+- Package [vignette](https://cran.r-project.org/web/packages/qcc/vignettes/qcc_a_quick_tour.html)
+- Webpage: <http://luca-scr.github.io/qcc/index.html>
+- The `qcc` package is included in the blog post [10 R packages I wish I knew about earlier](http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html)
+- A nice overview is also given in [Statistical Quality Control in R](http://blog.yhathq.com/posts/quality-control-in-r.html)
+
+
+## msir: Model-based Sliced Inverse Regression
+
+An R package for dimension reduction based on Gaussian finite mixture models 
+as an extension to sliced inverse regression (SIR).
+
+- `msir` is available on [CRAN](https://cran.r-project.org/package=msir)
+- Author: Luca Scrucca
+- Webpage: <https://mclust-org.github.io/msir>
+
+
+## GAabbreviate: Abbreviating Items Measures using Genetic Algorithms
+
+An R package that uses Genetic Algorithms as an optimization tool for scale abbreviation or subset selection that maximally captures the variance in the original data.
+
+- `GGAabbreviate` is available on [CRAN](https://cran.r-project.org/package=GAabbreviate)
+- Authors: Sahdra B. K. and L. Scrucca
+
+
+## Regularized Sliced Inverse Regression
+
+The archive [regsir.zip](../R/regsir.zip) contains an R package implementing regularization and shrinkage for Sliced Inverse Regression (SIR) as described in
+
+- Scrucca L. (2006) Regularized sliced inverse regression with applications in classification (2006). In *Data Analysis, Classification and the Forward Search<*, editors Zani S., Cerioli A.,  Riani M., Vichi M., Berlin, Springer-Verlag, pp. 59-66.
+
+It also contains R functions to apply the method to DNA microarrays data as described in
+
+- Scrucca L. (2007) Class prediction and gene selection for DNA microarrays using sliced inverse regression (2007). *Computational Statistics & Data Analysis*, Vol. 52, pp. 438-451.
+
+Note that the archive is <em>password-protected</em>, so if you are interested drop me an e-mail.
+
+
+## Competing Risks Analysis
+
+Functions based on the [`cmprsk`](https://cran.r-project.org/package=cmprsk) R package for computing the cumulative incidence function in the presence of competing risks, testing equality across groups (Gray's test), and pointwise confidence intervals for competing risks curves as described in
+
+- Scrucca L., Santucci A., Aversa F. (2007) Competing risks analysis using R: an easy guide for clinicians. *Bone Marrow Transplantation*, 40, 381-387. 
+
+Code and example dataset:
+
+- [CumIncidence.R](../R/CumIncidence.R)
+- [bmt.xls](../R/bmt.xls)
+- [bmt.csv](../R/bmt.csv)
+
+Functions based on the [`cmprsk`](https://cran.r-project.org/package=cmprsk) R package for regression modeling of competing risk as described in
+
+- Scrucca L., Santucci A., Aversa F. (2010) Regression modeling of competing risk using R: an in depth guide for clinicians. *Bone Marrow Transplantation*, 45, 1388–1395.
+
+Code and example dataset:
+
+- [crr-addson.R](../R/crr-addson.R)
+- [bmtcrr.xls](../R/bmtcrr.xls)
+- [bmtcrr.csv](../R/bmtcrr.csv)
+
+
+## dispmod: Dispersion Models
+
+Functions for modelling dispersion in Generalized Linear Models.
+
+- `dispmod` is available on [CRAN](https://cran.r-project.org/package=dispmod)
+- Authors: L. Scrucca
+
