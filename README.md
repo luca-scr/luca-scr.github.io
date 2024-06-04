@@ -46,6 +46,7 @@ system(paste("open", path))
 ```{r}
 quarto::quarto_render()
 ```
+
 ## Update web site on server
 
 Push to GitHub:
@@ -53,9 +54,7 @@ Push to GitHub:
 ```{r}
 system(paste0('git add --all && git commit -m "update"'))
 system("git push origin main")
-# setwd("../")
 ```
-
 
 Open <https://luca-scr.github.io>
 
