@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "about.qmd"
+
+website:
+  title: "Finley Malloc"
+
+  navbar:
+    background: dark
+    left:
+      - text: "Projects"
+        href: projects/index.qmd
+
+format:
+  html:
+    theme: Yeti
+    css: styles.css
+    fontsize: 1.1rem
+    toc: true
+    page-layout: full
+
+
