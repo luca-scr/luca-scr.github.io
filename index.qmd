@@ -66,6 +66,7 @@ and
 
 -   Mixture models
 -   Model-based clustering and classification
+-   Data Science
 -   Statistical learning
 -   Dimension reduction methods and regression graphics
 -   Genetic and evolutionary algorithms
