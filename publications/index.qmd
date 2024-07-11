@@ -247,9 +247,15 @@ Scrucca (1996) I sondaggi elettorali nella recente esperienza italiana.
 **Induzioni**, n. 12, 59--81.
 :::
 
-## Book Chapters {#book-chapters .unnumbered}
+## Book chapters {#book-chapters .unnumbered}
 
 ::: bibitem
+Scrucca L., Saqr M., López-Pernas S., Murphy K. (2024) An introduction
+and R tutorial to model-based clustering in education via latent profile
+analysis. In: Saqr M. & López-Pernas S. (Eds.), **Learning analytics
+methods and tutorials: A practical guide using R**. Springer.
+<https://lamethods.org/chapters/ch09-model-based-clustering/ch9-model.html>
+
 Serafini A., Scrucca L., Alfò M., Giordani P., Ferraro M. B. (2023)
 Fuzzy and model based clustering methods: can we fruitfully compare
 them? In: Brentari, E., Chiodi, M., Wit, EJ.C. (eds) **Models for Data
