@@ -47,6 +47,12 @@ system(paste("open", path))
 quarto::quarto_render()
 ```
 
+## View current website
+
+```{r}
+system("open docs/index.html")
+```
+
 ## Update web site on server
 
 Push to GitHub:

@@ -168,7 +168,7 @@ I'm the author and/or maintainer of several packages and functions written in [R
 
 # Teaching {#teaching}
 
-{{< iconify mdi teach>}}  [**Statistica**](https://unistudium.unipg.it/unistudium/course/view.php?id=39162){target="_blank"}\
+{{< iconify mdi teach>}}  [**Statistica**](https://unistudium.unipg.it/unistudium/course/view.php?id=47718){target="_blank"}\
       [Dipartimento di Economia (sede di Terni)](http://www.economiatr.it){target="_blank"}\
       Corso di Laurea Triennale in "Economia Aziendale"
 

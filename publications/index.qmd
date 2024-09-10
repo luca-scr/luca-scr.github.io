@@ -310,6 +310,10 @@ locale, n. 8, pp. 1--47.
 ## Conferences and workshops {#conferences-and-workshops .unnumbered}
 
 ::: bibitem
+Scrucca L. (2024) A Model-Based Approach to Shot Charts Estimation in
+Basketball, **Working Group on Model-Based Clustering**. Bertinoro, July
+22--26, 2024.
+
 Scrucca, L. (2023) Gaussian Mixture Models for Probabilistic Learning,
 **From Physics to Medicine: eXplainable AI workshop**, Milano, November
 20--22, 2023.
