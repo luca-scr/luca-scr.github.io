@@ -113,7 +113,8 @@ mclust in R**, Chapman & Hall/CRC Press.
 ISBN: 978-1032234953\
 eBook ISBN: 978-1003277965
 
-[Companion book website](https://mclust-org.github.io/book/index.html){target="_blank"}
+[Online book](https://mclust-org.github.io/mclust-book/){target="_blank"}
+
 :::
 ::::
 
