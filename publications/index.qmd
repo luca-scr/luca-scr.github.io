@@ -10,6 +10,13 @@ mclust in R**, Chapman & Hall/CRC, ISBN: 978-1032234953.
 ## Journal articles {#journal-articles .unnumbered}
 
 ::: bibitem
+Scrucca L. (2024) Entropy-based volatility analysis of financial
+log-returns using Gaussian mixture models. **Under review**.
+
+Tancini D., Scrucca L., Bartolucci F. (2024) Unimodal density-based
+clustering and merging algorithm using Gaussian mixtures. **Under
+review**.
+
 Scrucca L., (2024) Assessing uncertainty in Gaussian mixtures-based
 entropy estimation. **Under review**.\
 arXiv pre-print available at <https://arxiv.org/abs/2405.17265>

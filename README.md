@@ -23,15 +23,19 @@ file.edit("/Users/luca/Documents/CV/list_of_publications.tex")
 2. create `publications/index.qmd` using
 
 ```{r}
+# convert .tex to .md 
 cwd = getwd()
 # setwd("/Users/luca/Documents/www/content/publication/")
-# convert .tex to .md 
-system("pandoc -f latex -t markdown /Users/luca/Documents/CV/list_of_publications.tex -o publications/index.qmd")
+# system("pandoc -f latex -t markdown /Users/luca/Documents/CV/list_of_publications.tex -o publications/index.qmd")
+rmarkdown::pandoc_convert(
+  input = "/Users/luca/Documents/CV/list_of_publications.tex",
+  to = "markdown",
+  output = paste0(cwd, "/publications/index.qmd"))
 # clean sections, bibitem, ...
 # sed -i '' 's/{#.*//' $FILEOUT
 # sed -i '' 's/:::.*//' $FILEOUT
 # system("./publication.sh")
-setwd(cwd)
+# setwd(cwd)
 ```
 
 ## Update "WGMBC" webpage:
