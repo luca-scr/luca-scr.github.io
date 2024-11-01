@@ -120,6 +120,9 @@ eBook ISBN: 978-1003277965
 
 ## Selected publications
 
+{{< iconify fa6-solid file-lines >}}  Scrucca L. (2024) Entropy-based volatility analysis of financial log-returns using Gaussian mixture models. **Entropy**, 26(11), 907.
+<https://doi.org/10.3390/e26110907>
+
 {{< iconify fa6-solid file-lines >}}  Scrucca L. (2023) Entropy-based anomaly detection for Gaussian mixture modeling. **Algorithms**, 16(4), 195.
 <https://doi.org/10.3390/a16040195>
 
