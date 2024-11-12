@@ -1,10 +1,58 @@
 /*-- scss:defaults --*/
 
-$h1-font-size:          1.5rem !default;
-$h2-font-size:          1.2rem !default;
-$h3-font-size:          1.1rem !default;
+// fonts
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code_Pro&display=swap");
+$font-family-sans-serif: "Source Sans Pro", sans-serif, "Helvetica Neue";
+$presentation-heading-font: "Source Sans Pro", sans-serif;
+$font-family-monospace: "Source Code Pro", monospace;
+
+// fonts sizes
+$h1-font-size:   1.5rem !default;
+$h2-font-size:   1.3rem !default;
+$h3-font-size:   1.1rem !default;
+
+// colors
+$unibo_red: rgb(187,46,41);       // Bologna University red
+$unibo_gray: rgb(83,86,90);       // Bologna University gray
+$unibo_gray_light: rgb(220,220,220);
+$unibo_gray_lighter: rgb(240,240,240);
+$white: #ffffff;
+$black: #000000;
+$green: #00ff00;
+$yellow: #FFFF00;
+$link-color: darken($unibo_red, 10%);
+// $hover-color: $unibo_red;
+// $hover-color: lighten($link-color, 40%);
+//$primary:       $green !default;
+//$secondary:     $green !default;
+// $success:       $green !default;
+// $info:          $cyan !default;
+// $warning:       $yellow !default;
+// $danger:        $red !default;
+//$light:         $unibo_gray !default;
+//$dark:          darken($unibo_gray,20) !default;
+
+
 
 /*-- scss:rules --*/
+
+.navbar {
+  background-color: darken($unibo_gray,50);
+  color: $white;
+}
+
+/*
+:root {
+  --bs-navbar-color: darken($unibo_gray,50) !default;
+  --bs-navbar-hover-color: rgba(209, 163, 161, 0.8);
+  --bs-navbar-disabled-color: rgba(173, 174, 174, 0.75);
+  --bs-navbar-active-color: #d1a3a1;
+  --bs-navbar-brand-color: #adaeae;
+  --bs-navbar-brand-hover-color: #d1a3a1;
+  --bs-navbar-toggler-border-color: rgba(173, 174, 174, 0);
+}
+*/
 
 /*
 h1, h2, h3, h4, h5, h6 {
@@ -16,9 +64,13 @@ b, strong {
 }
 */
 
+
+
+
 code {
   font-size: 1em;
-  color: #36454F;
+  color: darken($unibo_gray, 10%);
+  // color: #36454F;
 }
 
 div.quarto-about-trestles .about-entity .about-links 

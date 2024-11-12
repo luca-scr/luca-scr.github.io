@@ -1,8 +1,9 @@
 ---
 title: "Luca Scrucca"
 subtitle: |
-          | Associate Professor of Statistics
-          | [Università degli Studi di Perugia](https://www.unipg.it){target="_blank"}
+          | Full Professor of Statistics
+          | [Dipartimento di Scienze Statistiche](https://stat.unibo.it){target="_blank"}
+          | [Alma Mater Studiorum – Università di Bologna](https://www.unibo.it){target="_blank"}
 image: media/profile.png
 toc: false
 about:
@@ -13,7 +14,7 @@ about:
   links:
     - icon: envelope
       text: e-mail
-      href: mailto:luca.scrucca@unipg.it
+      href: mailto:luca.scrucca@unibo.it
     - icon: orcid
       text: "{{< iconify academicons orcid >}} Orcid"
       href: https://orcid.org/0000-0003-3826-0484
@@ -46,17 +47,8 @@ Hello, I'm an *applied statistician*. In a broader sense, I'm also a
 methodology and computational aspects of data analysis. I'm an
 enthusiastic *R user and package developer*.
 
-<!--
-I'm also serving as Associate Editor for
-<a href="https://www.jstatsoft.org" target="_blank">Journal of
-Statistical Software</a> 
-and
-<a href="https://www.springer.com/journal/11222" target="_blank">Statistics
-and Computing</a>.
--->
-
-I'm also serving as Associate Editor for [Journal of
-Statistical Software](https://www.jstatsoft.org){target="_blank"}
+I'm also serving as Associate Editor for 
+[Journal of Statistical Software](https://www.jstatsoft.org){target="_blank"}
 and 
 [Statistics and Computing](https://www.springer.com/journal/11222){target="_blank"}.
 
@@ -172,10 +164,24 @@ I'm the author and/or maintainer of several packages and functions written in [R
 
 # Teaching {#teaching}
 
+{{< iconify mdi teach>}}  **Statistica**\
+      Corso: Laurea in "Statistica, Finanza e Assicurazioni"\
+      Campus: Rimini
+
+{{< iconify mdi teach>}}  [**Analisi delle Serie Storiche per la Finanza e le Assicurazioni** (Modulo 1)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/503521){target="_blank"}\
+      Corso: Laurea in "Statistica, Finanza e Assicurazioni"\
+      Campus: Rimini
+
+{{< iconify mdi teach>}}  [**Statistica Avanzata** (Modulo 2)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/402883){target="_blank"}\
+      Corso: Laurea Magistrale in "Scienze Statistiche, Finanziarie e Attuariali"\
+      Campus: Rimini
+
+
 {{< iconify mdi teach>}}  [**Statistica**](https://unistudium.unipg.it/unistudium/course/view.php?id=47718){target="_blank"}\
       [Dipartimento di Economia (sede di Terni)](http://www.economiatr.it){target="_blank"}\
-      Corso di Laurea Triennale in "Economia Aziendale"
+      [Università degli Studi di Perugia](http://www.unipg.it){target="_blank"}
 
+<!--
 {{< iconify mdi teach>}}  [**Mathematics II and Statistics**](https://unistudium.unipg.it/unistudium/course/view.php?id=40547){target="_blank"}\
       [Dipartimento di Ingegneria](https://ing.unipg.it){target="_blank"}\
       Corso di Laurea Triennale/BSc in ["Engineering Management"](https://ing.unipg.it/engmanagement){target="_blank"}
@@ -192,9 +198,6 @@ I'm the author and/or maintainer of several packages and functions written in [R
       Dottorato in Matematica Informatica e Statistica (UniFI, UniPG, INdAM)\
       Dottorato in Economia (UniPG)
 
-<br>
-
-<!--
 - [Statistical Methods for Finance](https://www.unistudium.unipg.it/unistudium/course/view.php?id=26284)  (a.a. 2021/22)  
 [Dipartimento di Economia](http://www.econ.unipg.it)  
 Corso di Laurea Magistrale in "Finanza e Metodi Quantitativi per l'Economia"  
@@ -222,17 +225,22 @@ Curriculum *Artificial Intelligence*
 	Dipartimento di Ingegneria
 -->		
 
+<br>
+
 ---
 
 # Contact {#contact}
 
-{{< iconify fa6-solid building-columns >}}  **Prof. Luca Scrucca**\
-      Dipartimento di Economia\
-      Università degli Studi di Perugia\
-{{< iconify fa6-solid location-dot >}}   Via A. Pascoli 20, 06123 Perugia (Italy)\
+**Prof. Luca Scrucca**\
+{{< iconify fa university >}}    Alma Mater Studiorum – Università di Bologna\
+{{< iconify mdi university >}}    Dipartimento di Scienze Statistiche "Paolo Fortunati"\
+{{< iconify fa6-solid location-dot >}}     Piazzetta Teatini 10, 47921, Rimini RN (Italy)\
+{{< iconify mdi web >}}    <https://www.unibo.it/sitoweb/luca.scrucca>\
+<!--
 {{< iconify fa6-solid phone >}}   +39-075-5855231\
 {{< iconify fa6-solid fax >}}   +39-075-5855950\
-{{< iconify fa6-solid envelope >}}   <luca.scrucca@unipg.it>
+-->
+{{< iconify fa6-solid envelope >}}    <luca.scrucca@unibo.it>
 
 :::
 ::::

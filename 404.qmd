@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Page Not Found"
 include-in-header:
   - text: |
       <style>
