@@ -2,8 +2,8 @@
 title: "Luca Scrucca"
 subtitle: |
           | Full Professor of Statistics
-          | [Dipartimento di Scienze Statistiche](https://stat.unibo.it){target="_blank"}
-          | [Alma Mater Studiorum – Università di Bologna](https://www.unibo.it){target="_blank"}
+          | [Department of Statistical Sciences](https://stat.unibo.it){target="_blank"}
+          | [Alma Mater Studiorum – University of Bologna](https://www.unibo.it){target="_blank"}
 image: media/profile.png
 toc: false
 about:
