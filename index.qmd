@@ -30,9 +30,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/luca-scr
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: bluesky
+      text: "{{< iconify fa6-brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/luca-scr.bsky.social
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/luca-scrucca-40278927/

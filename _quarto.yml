@@ -11,7 +11,7 @@ website:
   title: "Luca Scrucca"
   site-url: https://luca-scr.github.io
   favicon: "media/favicon.png"
-  twitter-card: true
+  # twitter-card: true
   google-analytics: "UA-5097379-1"
   page-navigation: true
 

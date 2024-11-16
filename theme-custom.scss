@@ -21,26 +21,35 @@ $white: #ffffff;
 $black: #000000;
 $green: #00ff00;
 $yellow: #FFFF00;
-$link-color: darken($unibo_red, 10%);
+
+// Base document colors
+$navbar-bg:  darken($unibo_gray,20);  // navbar
+$navbar-fg:  $white;                  // navbar foreground elements
+$navbar-hl:  lighten($unibo_red,10);  // highlight color when hovering over navbar links
+$body-bg:    $white;                  // page background 
+$body-color: darken($unibo_gray,20);  // page text 
+$footer-bg:  lighten($unibo_gray,60); // footer 
+$link-color: darken($unibo_red, 5);   // hyperlinks 
+
+// LS: altri che non so se fuzionano
 // $hover-color: $unibo_red;
 // $hover-color: lighten($link-color, 40%);
-//$primary:       $green !default;
-//$secondary:     $green !default;
+// $primary:       $green !default;
+// $secondary:     $green !default;
 // $success:       $green !default;
 // $info:          $cyan !default;
 // $warning:       $yellow !default;
 // $danger:        $red !default;
-//$light:         $unibo_gray !default;
-//$dark:          darken($unibo_gray,20) !default;
+// $light:         $unibo_gray !default;
+// $dark:          darken($unibo_gray,20) !default;
 
+
+// Inline code
+//$code-bg: $cream; // inline code background color
+//$code-color: $purple; // inline code text color
 
 
 /*-- scss:rules --*/
-
-.navbar {
-  background-color: darken($unibo_gray,50);
-  color: $white;
-}
 
 /*
 :root {
