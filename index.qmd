@@ -165,13 +165,13 @@ I'm the author and/or maintainer of several packages and functions written in [R
 # Teaching {#teaching}
 
 {{< iconify mdi teach>}}  [**Statistica**](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/478297)\
-      [Laurea in "Statistica, Finanza e Assicurazioni"](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni)
+      [Laurea in "Statistica, Finanza e Assicurazioni" (CLASFA)](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni)
 
 {{< iconify mdi teach>}}  [**Analisi delle Serie Storiche per la Finanza e le Assicurazioni** (Modulo 1)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/503521){target="_blank"}\
-      [Laurea in "Statistica, Finanza e Assicurazioni"](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni)
+      [Laurea in "Statistica, Finanza e Assicurazioni" (CLASFA)](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni)
 
 {{< iconify mdi teach>}}  [**Statistica Avanzata** (Modulo 2)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/402883){target="_blank"}\
-      [Laurea Magistrale in "Scienze Statistiche, Finanziarie e Attuariali"](https://corsi.unibo.it/magistrale/ScienzeStatisticheFinanziarieAttuariali)\
+      [Laurea Magistrale in "Scienze Statistiche, Finanziarie e Attuariali" (SSFA)](https://corsi.unibo.it/magistrale/ScienzeStatisticheFinanziarieAttuariali)\
 
 
 {{< iconify mdi teach>}}  [**Statistica**](https://unistudium.unipg.it/unistudium/course/view.php?id=47718){target="_blank"}\
