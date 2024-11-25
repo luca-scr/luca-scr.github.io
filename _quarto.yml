@@ -43,7 +43,7 @@ format:
   html:
     theme:
       light: [Yeti, theme-custom.scss] 
-      dark: [Yeti, theme-custom.scss, theme-dark.scss]
+      dark: [Yeti, theme-dark.scss, theme-custom.scss]
     # css: styles.css
     fontsize: 1.1rem
     toc: true

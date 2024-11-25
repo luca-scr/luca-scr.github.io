@@ -1,11 +1,15 @@
 /*-- scss:defaults --*/
 
 // Base document colors
-$body-bg: #222;
-$body-color: #eee;
-$link-color: #75AADB;
+$navbar-bg:  darken($unibo_gray,50);  // navbar
+$navbar-fg:  $white;                  // navbar foreground elements
+$navbar-hl:  lighten($unibo_red,10);  // highlight color when hovering over navbar links
+$body-bg:    darken($unibo_gray,20);  // page background 
+$body-color: $white;                  // page text 
+$link-color: $unibo_red;              // hyperlinks 
+$footer-bg:  darken($unibo_gray,50);  // footer 
 
-$dropdown-dark-color: #fd7e14;
+// $dropdown-dark-color: #fd7e14;
 
 /*
 // Code blocks
