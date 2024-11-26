@@ -13,23 +13,22 @@ $h2-font-size:   1.3rem !default;
 $h3-font-size:   1.1rem !default;
 
 // colors
-$unibo_red: rgb(187,46,41);       // Bologna University red
-$unibo_gray: rgb(83,86,90);       // Bologna University gray
+$unibo_red: rgb(187,46,41);            // Bologna University red
+$unibo_gray: rgb(83,86,90);            // Bologna University gray
 $unibo_gray_light: rgb(220,220,220);
 $unibo_gray_lighter: rgb(240,240,240);
+$unibo_gray_dark: rgb(22,30,39);
 $white: #ffffff;
 $black: #000000;
-$green: #00ff00;
-$yellow: #FFFF00;
 
 // Base document colors
-$navbar-bg:  darken($unibo_gray,20);  // navbar
+$navbar-bg:  $unibo_gray_dark;        // navbar
 $navbar-fg:  $white;                  // navbar foreground elements
 $navbar-hl:  lighten($unibo_red,10);  // highlight color when hovering over navbar links
 $body-bg:    $white;                  // page background 
 $body-color: darken($unibo_gray,20);  // page text 
-$footer-bg:  lighten($unibo_gray,60); // footer 
 $link-color: darken($unibo_red, 5);   // hyperlinks 
+$footer-bg:  $unibo_gray_dark;        // footer
 
 // LS: altri che non so se fuzionano
 // $hover-color: $unibo_red;
