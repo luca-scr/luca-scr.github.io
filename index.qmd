@@ -164,7 +164,7 @@ I'm the author and/or maintainer of several packages and functions written in [R
 
 # Teaching {#teaching}
 
-{{< iconify mdi teach>}}  [**Statistica**](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/478297)\
+{{< iconify mdi teach>}}  [**Statistica**](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/478297){target="_blank"}\
       [Laurea in "Statistica, Finanza e Assicurazioni" (CLASFA)](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni){target="_blank"}
 
 {{< iconify mdi teach>}}  [**Analisi delle Serie Storiche per la Finanza e le Assicurazioni** (Modulo 1)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/503521){target="_blank"}\
