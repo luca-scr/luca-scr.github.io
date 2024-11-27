@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://luca-scr.github.io/software/index.html</loc>
+    <lastmod>2024-06-03T17:51:43.067Z</lastmod>
+  </url>
+  <url>
     <loc>https://luca-scr.github.io/index.html</loc>
-    <lastmod>2024-11-25T19:37:39.597Z</lastmod>
+    <lastmod>2024-11-27T20:59:07.865Z</lastmod>
   </url>
   <url>
     <loc>https://luca-scr.github.io/publications/index.html</loc>
     <lastmod>2024-10-25T16:34:59.858Z</lastmod>
-  </url>
-  <url>
-    <loc>https://luca-scr.github.io/software/index.html</loc>
-    <lastmod>2024-06-03T17:51:43.067Z</lastmod>
   </url>
 </urlset>
