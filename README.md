@@ -40,6 +40,12 @@ rmarkdown::pandoc_convert(
 # setwd(cwd)
 ```
 
+3. Update list of "Selected publications":
+
+```{r}
+file.edit("/Users/luca/Documents/www/index.qmd")
+```
+
 ## Update "WGMBC" webpage:
 
 ```{r}

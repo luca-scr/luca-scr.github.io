@@ -112,6 +112,9 @@ eBook ISBN: 978-1003277965
 
 ## Selected publications
 
+{{< iconify fa6-solid file-lines >}}  Scrucca L., Karlis D. (2025) A model-based approach to shot charts estimation in basketball. **Computational Statistics**.
+<https://doi.org/10.1007/s00180-025-01599-1>
+
 {{< iconify fa6-solid file-lines >}}  Scrucca L. (2024) Entropy-based volatility analysis of financial log-returns using Gaussian mixture models. **Entropy**, 26(11), 907.
 <https://doi.org/10.3390/e26110907>
 
