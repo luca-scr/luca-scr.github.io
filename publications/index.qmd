@@ -265,64 +265,6 @@ Scrucca (1996) I sondaggi elettorali nella recente esperienza italiana.
 
 ## Book chapters {#book-chapters .unnumbered}
 
-::: bibitem
-Scrucca L., Saqr M., López-Pernas S., Murphy K. (2024) An introduction
-and R tutorial to model-based clustering in education via latent profile
-analysis. In: Saqr M. & López-Pernas S. (Eds.), **Learning analytics
-methods and tutorials: A practical guide using R**. Springer.
-<https://lamethods.org/chapters/ch09-model-based-clustering/ch9-model.html>
-
-Serafini A., Scrucca L., Alfò M., Giordani P., Ferraro M. B. (2023)
-Fuzzy and model based clustering methods: can we fruitfully compare
-them? In: Brentari, E., Chiodi, M., Wit, EJ.C. (eds) **Models for Data
-Analysis**. SIS 2018, 49th Meeting of Italian Statistical Society,
-Palermo, Italy, June 20--22. Springer Proceedings in Mathematics &
-Statistics, pp. 283--304.
-
-Scrucca L. (2016) Genetic algorithms for subset selection in model-based
-clustering. In **Unsupervised Learning Algorithms**, Celebi M. E. and
-Aydin K. (editors), Springer International Publishing, pp. 55--70.
-
-Chirieleison C., Scrucca L. (2016) CSR education in Italy. In **Social
-Responsibility Education Across Europe. A Comparative Approach**, Turker
-D., Altuntas Vural C., Idowu S. O. (editors), Springer International
-Publishing, pp. 139--159.
-
-Scrucca L., Bar-Hen A. (2013) A model-based dimension reduction approach
-to classification of gene expression data. In **Advances in Theoretical
-and Applied Statistics**, Torelli N., Pesarin F., Bar-Hen A. (editors),
-Springer, pp. 221--230.
-
-Scrucca L. (2011) A Geometric Approach to Subset Selection and Sparse
-Sufficient Dimension Reduction. In **New Perspectives in Statistical
-Modeling and Data Analysis**, editors Ingrassia S., Rocci R., Vichi M.,
-Springer-Verlag, Berlin Heidelberg, pp. 569--576.
-
-Bartolucci F., Scrucca L. (2010) Point Estimation Methods with
-Applications to Item Response Theory Models. In **International
-Encyclopedia of Education**, Penelope Peterson, Eva Baker, Barry McGaw
-(editors), 3rd edition, Oxford: Elsevier, Vol. 7, pp. 366--373.
-
-Scrucca L. (2010) Visualization of model-based clustering structures. In
-**Data Analysis and Classification**, editors Palumbo F., Lauro C.,
-Greenacre M., Berlin, Springer-Verlag, pp. 67--75.
-
-Scrucca L. (2006) Regularized sliced inverse regression with
-applications in classification. In **Data Analysis, Classification and
-the Forward Search**, editors Zani S., Cerioli A., Riani M., Vichi M.,
-Berlin, Springer-Verlag, pp. 59--66.
-
-Scrucca L. (2005) La metodologia utilizzata per l'identificazione di
-aggregazioni sub-regionali omogenee. In *Verso una rilettura dei sistemi
-locali dell'Umbria: prime applicazioni di una nuova metodologia di
-clusterizzazione*, **Quaderni PRASSI - Agenzia Umbria Ricerche**, Cap.
-2.
-
-Scrucca L. (2003) Aree di sviluppo omogenee e/o integrate. Approcci e
-metodologie. **Paper dell'Agenzia Umbria Ricerche**, Collana: sviluppo e
-locale, n. 8, pp. 1--47.
-:::
-
 ## Conferences and workshops {#conferences-and-workshops .unnumbered}
 
 ::: bibitem
