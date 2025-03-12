@@ -91,6 +91,9 @@ University of Minnesota\
 
 # Research {#research}
 
+> Standing on the shoulders of giants.\
+> --- Bernard of Chartres
+
 ## Book
 
 :::: {.grid}
