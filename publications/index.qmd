@@ -276,7 +276,7 @@ Scrucca L., Saqr M., López-Pernas S., Murphy K. (2024) An introduction
 and R tutorial to model-based clustering in education via latent profile
 analysis. In **Learning analytics methods and tutorials: A practical
 guide using R**, Saqr M. & López-Pernas S. (editors). Springer.
-<https://lamethods.org/chapters/ch09-model-based-clustering/ch9-model.html>
+<https://lamethods.org/book1/chapters/ch09-model-based-clustering/ch9-model.html>
 
 Serafini A., Scrucca L., Alfò M., Giordani P., Ferraro M. B. (2023)
 Fuzzy and model based clustering methods: can we fruitfully compare
@@ -615,11 +615,11 @@ Statistica**, Università degli Studi di Perugia, n. 20, Ottobre 2005.
 
 ::: bibitem
 Scrucca L. (2022) Pandemia e previsioni: per l'Umbria una curva in
-discesa. **AUR Focus**.
+discesa. **AUR Focus**.\
 <https://www.agenziaumbriaricerche.it/focus/pandemia-e-previsioni-per-lumbria-una-curva-in-discesa/>
 
 Scrucca L. (2021) Incidenza e impatto sul settore ospedaliero della
-pandemia CoViD-19: un confronto tra regioni. **AUR Focus**.
+pandemia CoViD-19: un confronto tra regioni. **AUR Focus**.\
 <https://www.agenziaumbriaricerche.it/focus/incidenza-e-impatto-sul-settore-ospedaliero-della-pandemia-covid-19-un-confronto-tra-regioni/>
 
 Serafini A., Murphy T. B., Scrucca L. (2020) Handling missing data in
