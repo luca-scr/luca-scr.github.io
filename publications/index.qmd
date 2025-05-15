@@ -11,8 +11,8 @@ mclust in R**, Chapman & Hall/CRC, ISBN: 978-1032234953.
 
 ::: bibitem
 Scrucca L., Karlis D. (2025) A model-based approach to shot charts
-estimation in basketball. **Computational Statistics**.
-<https://doi.org/10.1007/s00180-025-01599-1>
+estimation in basketball. **Computational Statistics**, 40(1),
+2031---2048. <https://doi.org/10.1007/s00180-025-01599-1>
 
 Scrucca L., (2024) A model-based clustering approach for bounded data
 using transformation-based Gaussian mixture models. **Under review**.\
@@ -23,7 +23,8 @@ clustering and merging algorithm using Gaussian mixtures. **Under
 review**.
 
 Scrucca L., (2024) Assessing uncertainty in Gaussian mixtures-based
-entropy estimation. **Under review**.\
+entropy estimation. To appear in **Communications in Statistics -
+Simulation and Computation**.\
 arXiv pre-print available at <https://arxiv.org/abs/2405.17265>
 
 Turzo T., Chirieleison C., Montrone A., Scrucca L. (2024) Sustainability
