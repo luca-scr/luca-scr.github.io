@@ -113,10 +113,13 @@ eBook ISBN: 978-1003277965
 :::
 ::::
 
-## Selected publications
+## Selected recent publications
 
 {{< iconify fa6-solid file-lines >}}  Scrucca L., Karlis D. (2025) A model-based approach to shot charts estimation in basketball. **Computational Statistics**, 40(1), 2031—2048.
 <https://doi.org/10.1007/s00180-025-01599-1>
+
+{{< iconify fa6-solid file-lines >}}  Scrucca L. (2025) Assessing uncertainty in Gaussian mixtures-based entropy estimation. **Communications in Statistics - Simulation and Computation**, 1--23. 
+<https://doi.org/10.1080/03610918.2025.2509813>
 
 {{< iconify fa6-solid file-lines >}}  Scrucca L. (2024) Entropy-based volatility analysis of financial log-returns using Gaussian mixture models. **Entropy**, 26(11), 907.
 <https://doi.org/10.3390/e26110907>
@@ -143,15 +146,6 @@ eBook ISBN: 978-1003277965
 
 {{< iconify fa6-solid file-lines >}}  Scrucca L. (2019) A transformation-based approach to Gaussian mixture density estimation for bounded data. **Biometrical Journal**, 61:4, 873--888.
 <https://doi.org/10.1002/bimj.201800174>
-
-{{< iconify fa6-solid file-lines >}}  Scrucca L. and Raftery A. E. (2018) clustvarsel: A Package Implementing Variable Selection for Gaussian Model-based Clustering in R. **Journal of Statistical Software**, 84:1, 1--28.
-<http://doi.org/10.18637/jss.v084.i01>
-
-{{< iconify fa6-solid file-lines >}}  Scrucca L., Fop M., Murphy T. B. and Raftery A. E. (2016) mclust 5: clustering, classification and density estimation using Gaussian finite mixture models, **The R Journal**, 8:1, 205--233.
-<https://doi.org/10.32614/RJ-2016-021>
-
-{{< iconify fa6-solid file-lines >}}  Scrucca L. (2013) GA: A Package for Genetic Algorithms in R. **Journal of Statistical Software**, 5:4, 1--37.
-<http://www.jstatsoft.org/v53/i04>
 
 ### {{< iconify fa-solid university >}}  Full list of [publications](./publications/index.html)
 
