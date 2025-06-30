@@ -10,6 +10,10 @@ mclust in R**, Chapman & Hall/CRC, ISBN: 978-1032234953.
 ## Journal articles {#journal-articles .unnumbered}
 
 ::: bibitem
+Scrucca L. (2025) A model-based clustering approach for bounded data
+using transformation-based Gaussian mixture models. **Journal of
+Classification**. <https://doi.org/10.1007/s00357-025-09511-8>
+
 Scrucca L., Karlis D. (2025) A model-based approach to shot charts
 estimation in basketball. **Computational Statistics**, 40(1),
 2031---2048. <https://doi.org/10.1007/s00180-025-01599-1>
@@ -22,10 +26,6 @@ arXiv pre-print available at <https://arxiv.org/abs/2405.17265>
 Tancini D., Scrucca L., Bartolucci F. (2025) Unimodal density-based
 clustering and merging algorithm using Gaussian mixtures. To appear in
 **Statistics and Computing**.
-
-Scrucca L., (2024) A model-based clustering approach for bounded data
-using transformation-based Gaussian mixture models. **Under review**.\
-arXiv pre-print available at <http://arxiv.org/abs/2412.13572>
 
 Turzo T., Chirieleison C., Montrone A., Scrucca L. (2024) Sustainability
 standards and decertification: a Bayesian analysis of SA800. **Under
