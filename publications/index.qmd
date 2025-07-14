@@ -20,16 +20,17 @@ estimation in basketball. **Computational Statistics**, 40(1),
 
 Scrucca L. (2025) Assessing uncertainty in Gaussian mixtures-based
 entropy estimation. **Communications in Statistics - Simulation and
-Computation**, 1--23. https://doi.org/10.1080/03610918.2025.2509813\
+Computation**, 1--23. <https://doi.org/10.1080/03610918.2025.2509813>\
 arXiv pre-print available at <https://arxiv.org/abs/2405.17265>
 
 Tancini D., Scrucca L., Bartolucci F. (2025) Unimodal density-based
 clustering and merging algorithm using Gaussian mixtures. To appear in
 **Statistics and Computing**.
 
-Turzo T., Chirieleison C., Montrone A., Scrucca L. (2024) Sustainability
-standards and decertification: a Bayesian analysis of SA800. **Under
-review**.
+Turzo T., Chirieleison C., Montrone A., Scrucca L. (2025) Sustainability
+standards and decertification: a Bayesian analysis of SA800. **Corporate
+Social Responsibility and Environmental Management**.
+<http://doi.org/10.1002/csr.70069>
 
 Scrucca L. (2024) Entropy-based volatility analysis of financial
 log-returns using Gaussian mixture models. **Entropy**, 26(11), 907.
