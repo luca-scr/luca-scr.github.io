@@ -29,7 +29,7 @@ clustering and merging algorithm using Gaussian mixtures. To appear in
 
 Turzo T., Chirieleison C., Montrone A., Scrucca L. (2025) Sustainability
 standards and decertification: a Bayesian analysis of SA800. **Corporate
-Social Responsibility and Environmental Management**.
+Social Responsibility and Environmental Management**, 32, 5, 6951--6965.
 <http://doi.org/10.1002/csr.70069>
 
 Scrucca L. (2024) Entropy-based volatility analysis of financial
@@ -334,6 +334,10 @@ locale, n. 8, pp. 1--47.
 ## Conferences and workshops {#conferences-and-workshops .unnumbered}
 
 ::: bibitem
+Scrucca L. (2025) A Model-based Clustering Approach for Bounded Data and
+Its Applications, **Working Group on Model-Based Clustering**. Nice,
+July 21--25, 2025.
+
 Scrucca L. (2024) A Model-Based Approach to Shot Charts Estimation in
 Basketball, **Working Group on Model-Based Clustering**. Bertinoro, July
 22--26, 2024.
