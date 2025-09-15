@@ -1,6 +1,6 @@
 {
     "dialog-state": {
-        "query": "statistical learnin",
+        "query": "unipg",
         "path": "",
         "regex": false,
         "caseSensitive": false,
@@ -9,7 +9,7 @@
         "useGitGrep": true,
         "excludeGitIgnore": true,
         "excludeFilePatterns": [],
-        "resultsCount": 4,
+        "resultsCount": 24,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true

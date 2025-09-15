@@ -36,7 +36,7 @@ website:
       #   href: blog.qmd
 
   page-footer:
-    left: "&copy; 2024 Luca Scrucca"
+    left: "&copy; 2025 Luca Scrucca"
     right: "Website created with [Quarto](https://quarto.org/)"
 
 format:
