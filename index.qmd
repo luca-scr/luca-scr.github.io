@@ -172,6 +172,7 @@ I'm the author and/or maintainer of several packages and functions written in [R
 {{< iconify fa-solid chalkboard-teacher >}}  [**Statistica**](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/518617){target="_blank"}\
       [Laurea in "Statistica, Finanza e Assicurazioni" (CLASFA)](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni){target="_blank"}
 <!-- https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/478297 -->
+<!-- https://virtuale.unibo.it/course/view.php?id=77192 -->
 
 {{< iconify fa-solid chalkboard-teacher >}}  [**Analisi delle Serie Storiche per la Finanza e le Assicurazioni** (Modulo 1)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/503521){target="_blank"}\
       [Laurea in "Statistica, Finanza e Assicurazioni" (CLASFA)](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni){target="_blank"}
@@ -179,11 +180,12 @@ I'm the author and/or maintainer of several packages and functions written in [R
 {{< iconify fa-solid chalkboard-teacher >}}  [**Statistica Avanzata** (Modulo 2)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/402883){target="_blank"}\
       [Laurea Magistrale in "Scienze Statistiche, Finanziarie e Attuariali" (SSFA)](https://corsi.unibo.it/magistrale/ScienzeStatisticheFinanziarieAttuariali){target="_blank"}\
 
+<!--
+
 {{< iconify fa-solid chalkboard-teacher  >}}  [**Statistica**](https://unistudium.unipg.it/unistudium/course/view.php?id=47718){target="_blank"}\
       [Dipartimento di Economia (sede di Terni)](http://www.economiatr.it){target="_blank"}\
       [Università degli Studi di Perugia](http://www.unipg.it){target="_blank"}
 
-<!--
 {{< iconify mdi teach>}}  [**Mathematics II and Statistics**](https://unistudium.unipg.it/unistudium/course/view.php?id=40547){target="_blank"}\
       [Dipartimento di Ingegneria](https://ing.unipg.it){target="_blank"}\
       Corso di Laurea Triennale/BSc in ["Engineering Management"](https://ing.unipg.it/engmanagement){target="_blank"}
