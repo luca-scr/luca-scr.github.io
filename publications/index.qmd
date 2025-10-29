@@ -15,6 +15,10 @@ unimodal density-based clustering using Gaussian mixture models.
 **Statistics and Computing**, 35, 208.
 <https://doi.org/10.1007/s11222-025-10659-x>
 
+Tiburtini M., Scrucca L., Peruzzi L. (2025) Using Gaussian Mixture
+Models in plant morphometry. **Perspectives in Plant Ecology Evolution
+and Systematics**, 69, 125902.
+
 Scrucca L. (2025) A model-based clustering approach for bounded data
 using transformation-based Gaussian mixture models. **Journal of
 Classification**. <https://doi.org/10.1007/s00357-025-09511-8>
@@ -36,11 +40,6 @@ Social Responsibility and Environmental Management**, 32, 5, 6951--6965.
 Scrucca L. (2024) Entropy-based volatility analysis of financial
 log-returns using Gaussian mixture models. **Entropy**, 26(11), 907.
 <https://doi.org/10.3390/e26110907>
-
-Tiburtini M., Scrucca L. and Peruzzi L. (2024) A guide to plant
-morphometrics using Gaussian Mixture Models. **Under review**.\
-bioRxiv pre-print available at
-<https://doi.org/10.1101/2024.04.21.590472>
 
 Scrucca L. (2023) On the influence of data imbalance on supervised
 Gaussian mixture models. **Algorithms**, 16(12), 563.
