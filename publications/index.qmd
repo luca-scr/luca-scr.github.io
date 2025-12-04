@@ -18,6 +18,7 @@ unimodal density-based clustering using Gaussian mixture models.
 Tiburtini M., Scrucca L., Peruzzi L. (2025) Using Gaussian Mixture
 Models in plant morphometry. **Perspectives in Plant Ecology Evolution
 and Systematics**, 69, 125902.
+<https://doi.org/10.1016/j.ppees.2025.125902>
 
 Scrucca L. (2025) A model-based clustering approach for bounded data
 using transformation-based Gaussian mixture models. **Journal of
