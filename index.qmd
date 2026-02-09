@@ -174,10 +174,12 @@ I'm the author and/or maintainer of several packages and functions written in [R
 <!-- https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/478297 -->
 <!-- https://virtuale.unibo.it/course/view.php?id=77192 -->
 
-{{< iconify fa-solid chalkboard-teacher >}}  [**Analisi delle Serie Storiche per la Finanza e le Assicurazioni** (Modulo 1)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/503521){target="_blank"}\
+{{< iconify fa-solid chalkboard-teacher >}}  [**Analisi delle Serie Storiche per la Finanza e le Assicurazioni** (Modulo 1)](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/503521){target="_blank"}\
+<!-- https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/503521 -->
       [Laurea in "Statistica, Finanza e Assicurazioni" (CLASFA)](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni){target="_blank"}
 
-{{< iconify fa-solid chalkboard-teacher >}}  [**Statistica Avanzata** (Modulo 2)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/402883){target="_blank"}\
+{{< iconify fa-solid chalkboard-teacher >}}  [**Statistica Avanzata** (Modulo 2)](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/529432){target="_blank"}\
+<!-- https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/402883 -->
       [Laurea Magistrale in "Scienze Statistiche, Finanziarie e Attuariali" (SSFA)](https://corsi.unibo.it/magistrale/ScienzeStatisticheFinanziarieAttuariali){target="_blank"}\
 
 <!--
