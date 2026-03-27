@@ -1,0 +1,758 @@
+<html><head><title>Working Group on Model-Based Clustering</title>
+<!--
+<meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)">
+<meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)">
+<meta name="src" content="Tableau.tex">
+-->
+<style type="text/css"> 
+.ectt-1000{ font-family: monospace;}
+.ectt-1000{ font-family: monospace;}
+p.noindent { text-indent: 0em }
+td p.noindent { text-indent: 0em; margin-top:0em; }
+p.nopar { text-indent: 0em; }
+p.indent{ text-indent: 1.5em }
+@media print {div.crosslinks {visibility:hidden;}}
+a img { border-top: 0; border-left: 0; border-right: 0; }
+center { margin-top:1em; margin-bottom:1em; }
+td center { margin-top:0em; margin-bottom:0em; }
+.Canvas { position:relative; }
+img.math{vertical-align:middle;}
+li p.indent { text-indent: 0em }
+li p:first-child{ margin-top:0em; }
+li p:last-child, li div:last-child { margin-bottom:0.5em; }
+li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+.enumerate1 {list-style-type:decimal;}
+.enumerate2 {list-style-type:lower-alpha;}
+.enumerate3 {list-style-type:lower-roman;}
+.enumerate4 {list-style-type:upper-alpha;}
+div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+.obeylines-h,.obeylines-v {white-space: nowrap; }
+div.obeylines-v p { margin-top:0; margin-bottom:0; }
+.overline{ text-decoration:overline; }
+.overline img{ border-top: 1px solid black; }
+td.displaylines {text-align:center; white-space:nowrap;}
+.centerline {text-align:center;}
+.rightline {text-align:right;}
+div.verbatim {font-family: monospace; white-space: nowrap; text-align:left; clear:both; }
+.fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+div.fbox {display:table}
+div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+div.minipage{width:100%;}
+div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+div.center div {text-align: left;}
+div.flushright, div.flushright div.flushright {text-align: right;}
+div.flushright div {text-align: left;}
+div.flushleft {text-align: left;}
+.underline{ text-decoration:underline; }
+.underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+.framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+.framebox-c {text-align:center;}
+.framebox-l {text-align:left;}
+.framebox-r {text-align:right;}
+span.thank-mark{ vertical-align: super }
+span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+table.tabular td p{margin-top:0em;}
+table.tabular {margin-left: auto; margin-right: auto;}
+td p:first-child{ margin-top:0em; }
+td p:last-child{ margin-bottom:0em; }
+div.td00{ margin-left:0pt; margin-right:0pt; }
+div.td01{ margin-left:0pt; margin-right:5pt; }
+div.td10{ margin-left:5pt; margin-right:0pt; }
+div.td11{ margin-left:5pt; margin-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+td.td00{ padding-left:0pt; padding-right:0pt; }
+td.td01{ padding-left:0pt; padding-right:5pt; }
+td.td10{ padding-left:5pt; padding-right:0pt; }
+td.td11{ padding-left:5pt; padding-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+.hline hr, .cline hr{ height : 1px; margin:0px; }
+.tabbing-right {text-align:right;}
+span.TEX {letter-spacing: -0.125em; }
+span.TEX span.E{ position:relative;top:0.5ex;left:-0.0417em;}
+a span.TEX span.E {text-decoration: none; }
+span.LATEX span.A{ position:relative; top:-0.5ex; left:-0.4em; font-size:85%;}
+span.LATEX span.TEX{ position:relative; left: -0.4em; }
+div.float, div.figure {margin-left: auto; margin-right: auto;}
+div.float img {text-align:center;}
+div.figure img {text-align:center;}
+.marginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+.marginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+table.equation {width:100%;}
+.equation td{text-align:center; }
+td.equation { margin-top:1em; margin-bottom:1em; } td.equation-label { width:5%; text-align:center; }
+td.eqnarray4 { width:5%; white-space: normal; }
+td.eqnarray2 { width:5%; }
+table.eqnarray-star, table.eqnarray {width:100%;}
+div.eqnarray{text-align:center;}
+div.array {text-align:center;}
+div.pmatrix {text-align:center;}
+table.pmatrix {width:100%;}
+span.pmatrix img{vertical-align:middle;}
+div.pmatrix {text-align:center;}
+table.pmatrix {width:100%;}
+span.bar-css {text-decoration:overline;}
+img.cdots{vertical-align:middle;}
+.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+.index-item, .index-subitem, .index-subsubitem {display:block}
+div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+div.caption span.id{font-weight: bold; white-space: nowrap; }
+h1.partHead{text-align: center}
+p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+.paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+.subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+.quote {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; margin-right:1em; text-align:justify;}
+.verse{white-space:nowrap; margin-left:2em}
+div.maketitle {text-align:center;}
+h2.titleHead{text-align:center;}
+div.maketitle{ margin-bottom: 2em; }
+div.author, div.date {text-align:center;}
+div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+div.author{white-space: nowrap;}
+.quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
+.abstract p {margin-left:5%; margin-right:5%;}
+div.abstract {width:100%;}
+div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+table.tabular td p{margin-top:0em;}
+table.tabular {margin-left: auto; margin-right: auto;}
+td p:first-child{ margin-top:0em; }
+td p:last-child{ margin-bottom:0em; }
+div.td00{ margin-left:0pt; margin-right:0pt; }
+div.td01{ margin-left:0pt; margin-right:5pt; }
+div.td10{ margin-left:5pt; margin-right:0pt; }
+div.td11{ margin-left:5pt; margin-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+td.td00{ padding-left:0pt; padding-right:0pt; }
+td.td01{ padding-left:0pt; padding-right:5pt; }
+td.td10{ padding-left:5pt; padding-right:0pt; }
+td.td11{ padding-left:5pt; padding-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+.hline hr, .cline hr{ height : 1px; margin:0px; }
+div.array {text-align:center;}
+
+</style> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+
+<center>
+<small>
+<a href="http://www.stat.washington.edu/raftery/Onrgroup/onrgroup.html">
+Working group home page</a> | <a href="http://www.stat.washington.edu/raftery">Adrian Raftery </a> | <a href="http://www.stat.washington.edu">Statistics Department</a> | <a href="http://www.csss.washington.edu">CSSS</a> | <a href="http://www.washington.edu"> University of Washington</a><table>
+<tbody><tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr></tr>
+<tr> </tr>
+</tbody></table>
+</small></center><small>
+</small>
+<p></p>
+
+<center>
+<h3>Working Group on Model-Based Clustering Summer Session: Edmonton, July 20-24 2026</h3>
+</center>
+
+<p>The 33rd Summer Working Group on Model-Based Clustering will be held at University of Alberta, Edmonton (Canada), from July 20 to July 24, 2026.</p>
+<p>The scientific committee consists this year of Luca Scrucca, Charles Bouveyron, Gilles Celeux, Bettina Grün, Brendan Murphy, Rebecca Nugent, Adrian Raftery, Cinzia Viroli, Bei Jiang.</p>
+<h3 id="venue-accommodations-and-social-activities">Venue, Accommodations, and Social activities</h3>
+<!-- Information about venue and local accommodations will be provided as soon as possible. -->
+<p>The WGMBC will be hosted at the <a href="https://www.ualberta.ca/en/mathematical-and-statistical-sciences/index.html" target="_blank"><strong>Department of Mathematical and Statistical Sciences, University of Alberta</strong></a>, University Commons Building, Edmonton, Alberta, Canada T6G 2N8.</p>
+<ul>
+<li><p><strong>Ice breaker</strong>: TBA <!--
+on Sunday evening, around 7pm (happy hour :-)) this is the occasion to meet old and new colleagues. This year we plan to do in on a [nice beach in Antibes](https://provence-alpes-cotedazur.com/en/things-to-do/leisure-relaxation/all-relaxation-and-leisure-activities/plage-du-port-gallice-antibes-en-5708753/){target="_blank"}
+--></p></li>
+<li><p><strong>Social lunch</strong>: TBA <!--
+on Tuesday, at noon, it will be [here](https://www.leprovencalgolf.com/en/) (around 30 euros per person). It is just by the side of the [INRIA center](https://www.inria.fr/fr/centre-inria-universite-cote-azur){target="_blank"} where the WG will be located. Ten minutes walking. 
+--></p></li>
+<li><p><strong>Social dinner</strong>: TBA <!--
+on Thursday evening, once more in Antibes, we'll have dinner at the legendary [Bistrot Margot](https://wiicmenu-qrcode.com/app/offre.php?r=1350){target="_blank"} (around 40 euros per person). A vegetarian menù can be put in place if needed. 
+--></p></li>
+<li><p><strong>Hike</strong>: TBA <!--
+on Saturday, this year we propose a hike on the mountain, about 1h30 north of Nice, possibly with some nice lake of altitude and/or a beautiful view of the sea in the distance. The exact location has not yet been decided, but we have a couple of options that fit with the description.   
+--></p></li>
+</ul>
+<h3 id="program">Program</h3>
+<!-- The scientific program will be published as soon as possible.  -->
+<center>
+<strong>Working Group Sessions: Monday-Friday, July 20-24, 2026</strong>
+</center>
+<!--
+Long Talks
+----------
+* Bei Jiang
+* David B. Dahl
+* Tyler McCormick
+* Michael Fop
+* Brendan Murphy
+* Gonzalo Mena
+
+Short Talks
+-----------
+* Naisyin Wang
+* Bettina Grun
+* Luca Scrucca
+* Cinzia Viroli
+* Joshua Loyal
+* Michael Pearce
+* Adrian Raftery
+* Julien Jacques
+* Pierre Latouche
+* Michael Gallaugher
+* Martin Metodiev
+* Laura Anderlucci
+--->
+<div class="cell">
+<div class="cell-output-display">
+<div id="hqpwdibiod" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#hqpwdibiod table {
+font-family: Times;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+#hqpwdibiod thead, #hqpwdibiod tbody, #hqpwdibiod tfoot, #hqpwdibiod tr, #hqpwdibiod td, #hqpwdibiod th {
+border-style: none;
+}
+#hqpwdibiod p {
+margin: 0;
+padding: 0;
+}
+#hqpwdibiod .gt_table {
+display: table;
+border-collapse: collapse;
+line-height: normal;
+margin-left: auto;
+margin-right: auto;
+color: #000000;
+font-size: 16px;
+font-weight: normal;
+font-style: normal;
+background-color: #FFFFFF;
+width: 90%;
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #A8A8A8;
+border-right-style: none;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #A8A8A8;
+border-left-style: none;
+border-left-width: 2px;
+border-left-color: #D3D3D3;
+}
+#hqpwdibiod .gt_caption {
+padding-top: 4px;
+padding-bottom: 4px;
+}
+#hqpwdibiod .gt_title {
+color: #000000;
+font-size: 125%;
+font-weight: initial;
+padding-top: 1.6px;
+padding-bottom: 1.6px;
+padding-left: 5px;
+padding-right: 5px;
+border-bottom-color: #FFFFFF;
+border-bottom-width: 0;
+}
+#hqpwdibiod .gt_subtitle {
+color: #000000;
+font-size: 85%;
+font-weight: initial;
+padding-top: 0.6px;
+padding-bottom: 2.6px;
+padding-left: 5px;
+padding-right: 5px;
+border-top-color: #FFFFFF;
+border-top-width: 0;
+}
+#hqpwdibiod .gt_heading {
+background-color: #FFFFFF;
+text-align: center;
+border-bottom-color: #FFFFFF;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+}
+#hqpwdibiod .gt_bottom_border {
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+}
+#hqpwdibiod .gt_col_headings {
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+}
+#hqpwdibiod .gt_col_heading {
+color: #000000;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: normal;
+text-transform: inherit;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+vertical-align: bottom;
+padding-top: 2px;
+padding-bottom: 3px;
+padding-left: 5px;
+padding-right: 5px;
+overflow-x: hidden;
+}
+#hqpwdibiod .gt_column_spanner_outer {
+color: #000000;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: normal;
+text-transform: inherit;
+padding-top: 0;
+padding-bottom: 0;
+padding-left: 4px;
+padding-right: 4px;
+}
+#hqpwdibiod .gt_column_spanner_outer:first-child {
+padding-left: 0;
+}
+#hqpwdibiod .gt_column_spanner_outer:last-child {
+padding-right: 0;
+}
+#hqpwdibiod .gt_column_spanner {
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+vertical-align: bottom;
+padding-top: 2px;
+padding-bottom: 2px;
+overflow-x: hidden;
+display: inline-block;
+width: 100%;
+}
+#hqpwdibiod .gt_spanner_row {
+border-bottom-style: hidden;
+}
+#hqpwdibiod .gt_group_heading {
+padding-top: 3.2px;
+padding-bottom: 3.2px;
+padding-left: 5px;
+padding-right: 5px;
+color: #000000;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+text-transform: inherit;
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+vertical-align: middle;
+text-align: left;
+}
+#hqpwdibiod .gt_empty_group_heading {
+padding: 0.5px;
+color: #000000;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+vertical-align: middle;
+}
+#hqpwdibiod .gt_from_md > :first-child {
+margin-top: 0;
+}
+#hqpwdibiod .gt_from_md > :last-child {
+margin-bottom: 0;
+}
+#hqpwdibiod .gt_row {
+padding-top: 3.2px;
+padding-bottom: 3.2px;
+padding-left: 5px;
+padding-right: 5px;
+margin: 10px;
+border-top-style: solid;
+border-top-width: 1px;
+border-top-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+vertical-align: middle;
+overflow-x: hidden;
+}
+#hqpwdibiod .gt_stub {
+color: #000000;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+text-transform: inherit;
+border-right-style: solid;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+padding-left: 5px;
+padding-right: 5px;
+}
+#hqpwdibiod .gt_stub_row_group {
+color: #000000;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+text-transform: inherit;
+border-right-style: solid;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+padding-left: 5px;
+padding-right: 5px;
+vertical-align: top;
+}
+#hqpwdibiod .gt_row_group_first td {
+border-top-width: 2px;
+}
+#hqpwdibiod .gt_row_group_first th {
+border-top-width: 2px;
+}
+#hqpwdibiod .gt_summary_row {
+color: #000000;
+background-color: #FFFFFF;
+text-transform: inherit;
+padding-top: 3.2px;
+padding-bottom: 3.2px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#hqpwdibiod .gt_first_summary_row {
+border-top-style: solid;
+border-top-color: #D3D3D3;
+}
+#hqpwdibiod .gt_first_summary_row.thick {
+border-top-width: 2px;
+}
+#hqpwdibiod .gt_last_summary_row {
+padding-top: 3.2px;
+padding-bottom: 3.2px;
+padding-left: 5px;
+padding-right: 5px;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+}
+#hqpwdibiod .gt_grand_summary_row {
+color: #000000;
+background-color: #FFFFFF;
+text-transform: inherit;
+padding-top: 3.2px;
+padding-bottom: 3.2px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#hqpwdibiod .gt_first_grand_summary_row {
+padding-top: 3.2px;
+padding-bottom: 3.2px;
+padding-left: 5px;
+padding-right: 5px;
+border-top-style: double;
+border-top-width: 6px;
+border-top-color: #D3D3D3;
+}
+#hqpwdibiod .gt_last_grand_summary_row_top {
+padding-top: 3.2px;
+padding-bottom: 3.2px;
+padding-left: 5px;
+padding-right: 5px;
+border-bottom-style: double;
+border-bottom-width: 6px;
+border-bottom-color: #D3D3D3;
+}
+#hqpwdibiod .gt_striped {
+background-color: rgba(128, 128, 128, 0.05);
+}
+#hqpwdibiod .gt_table_body {
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+}
+#hqpwdibiod .gt_footnotes {
+color: #000000;
+background-color: #FFFFFF;
+border-bottom-style: none;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 2px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+}
+#hqpwdibiod .gt_footnote {
+margin: 0px;
+font-size: 90%;
+padding-top: 1.6px;
+padding-bottom: 1.6px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#hqpwdibiod .gt_sourcenotes {
+color: #000000;
+background-color: #FFFFFF;
+border-bottom-style: none;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 2px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+}
+#hqpwdibiod .gt_sourcenote {
+font-size: 90%;
+padding-top: 1.6px;
+padding-bottom: 1.6px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#hqpwdibiod .gt_left {
+text-align: left;
+}
+#hqpwdibiod .gt_center {
+text-align: center;
+}
+#hqpwdibiod .gt_right {
+text-align: right;
+font-variant-numeric: tabular-nums;
+}
+#hqpwdibiod .gt_font_normal {
+font-weight: normal;
+}
+#hqpwdibiod .gt_font_bold {
+font-weight: bold;
+}
+#hqpwdibiod .gt_font_italic {
+font-style: italic;
+}
+#hqpwdibiod .gt_super {
+font-size: 65%;
+}
+#hqpwdibiod .gt_footnote_marks {
+font-size: 75%;
+vertical-align: 0.4em;
+position: initial;
+}
+#hqpwdibiod .gt_asterisk {
+font-size: 100%;
+vertical-align: 0;
+}
+#hqpwdibiod .gt_indent_1 {
+text-indent: 5px;
+}
+#hqpwdibiod .gt_indent_2 {
+text-indent: 10px;
+}
+#hqpwdibiod .gt_indent_3 {
+text-indent: 15px;
+}
+#hqpwdibiod .gt_indent_4 {
+text-indent: 20px;
+}
+#hqpwdibiod .gt_indent_5 {
+text-indent: 25px;
+}
+#hqpwdibiod .katex-display {
+display: inline-flex !important;
+margin-bottom: 0.75em !important;
+}
+#hqpwdibiod div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+height: 0px !important;
+}
+</style>
+
+<table class="gt_table caption-top" style="table-layout:fixed;width:90%;" data-quarto-bootstrap="false">
+<colgroup>
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 25%">
+<col style="width: 55%">
+</colgroup>
+<thead>
+<tr class="gt_col_headings header">
+<th id="Day" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="text-align: left; border-top-width: 2px; border-top-style: solid; border-top-color: #000000; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;" scope="col">Day</th>
+<th id="Time" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="text-align: left; border-top-width: 2px; border-top-style: solid; border-top-color: #000000; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;" scope="col">Time</th>
+<th id="Speaker" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="text-align: left; border-top-width: 2px; border-top-style: solid; border-top-color: #000000; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;" scope="col">Speaker</th>
+<th id="Title" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="text-align: left; border-top-width: 2px; border-top-style: solid; border-top-color: #000000; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;" scope="col">Title</th>
+</tr>
+</thead>
+<tbody class="gt_table_body">
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;">Monday<br>(B. Jiang)</td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">09:00-10:20</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Brendan Murphy<br>(University College Dublin)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">10:40-12:00</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">David Dahl<br>(Brigham Young University)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">Subjective exchangeable partition priors via integer partitions</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;">Tuesday<br>(R. Nugent)</td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">09:00-10:20</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Gonzalo Mena<br>(Carnegie Mellon University)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">On model-based clustering with entropic optimal transport</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">10:40-12:00</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Poster Flash Session</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;"></td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">14:00-16:00</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">Poster session</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;"></td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;">Wednesday<br>(B. Murphy)</td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">9:00-10:20</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Bei Jiang<br>(University of Alberta)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">10:40-10:55</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Luca Scrucca<br>(Università di Bologna)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">11:00-11:15</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Bettina Grun<br>(WU Vienna University)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">11:20-11:35</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Joshua Loyal<br>(Joshua Loyal)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">The Metropolis-Hastings algorithm as a component of a data-generating process with applications to longitudinal clustering</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">11:40-11:55</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Adrian Raftery<br>(University of Washington)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">14:00-16:00</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">Software session</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;"></td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;">Thursday<br>(A. Raftery)</td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">09:00-10:20</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Tyler McCormick<br>(University of Washington)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">10:40-10:55</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Naisyin Wang<br>(Carnegie Mellon University)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">11:00-11:15</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Cinzia Viroli<br>(Università di Bologna)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">11:20-11:35</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Michael Pearce<br>(Reed College)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">Bayesian rank-clustering of treatments from analyses of clinical trials data</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">11:40-11:55</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">Pierre Latouche<br>(Université Clermont Auvergne)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000;">TBA</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;">Friday<br>(C. Viroli)</td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">09:00-10:20</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Michael Fop<br>(University College Dublin)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">10:40-10:55</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Julien Jacques<br>(Université Lumière Lyon 2)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">TBA</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">11:00-11:15</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Michael Gallaugher<br>(Baylor University)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">Model Selection via an Adaptive ithm for Parsimonious Mixtures of Skewed Bilinear Factor Analyzers</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top;">11:20-11:35</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top;">Martin Metodiev<br>(Université Clermont Auvergne)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top;">Simulation-consistent ation of the Exact Marginal Likelihood for Block Models</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Day" style="text-align: left; vertical-align: top; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000000;"></td>
+<td class="gt_row gt_right" headers="Time" style="text-align: left; vertical-align: top; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000000;">11:40-11:55</td>
+<td class="gt_row gt_left" headers="Speaker" style="text-align: left; vertical-align: top; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000000;">Laura Anderlucci<br>(Università di Bologna)</td>
+<td class="gt_row gt_left" headers="Title" style="text-align: left; vertical-align: top; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000000;">Model-based clustering of functional data via Random Projections</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+
+<br><br>
+<p>Last updated: March 27, 2026</p>
+
+</body></html>
