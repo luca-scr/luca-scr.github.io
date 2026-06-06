@@ -116,6 +116,9 @@ eBook ISBN: 978-1003277965
 ## Selected recent publications
 
 {{< iconify fa6-solid file-lines >}}  
+Scrucca L. (2026) Mixture-based estimation of multivariate data hypervolume. **Statistical Analysis & Data Mining: An ASA Data Science Journal**, 19(3), e70092. <https://doi.org/10.1002/sam.70092> [Online full-text available]
+
+{{< iconify fa6-solid file-lines >}}  
 Scrucca L. (2025) A model-based clustering approach for bounded data using transformation-based Gaussian mixture models. **Journal of Classification**.
 <https://doi.org/10.1007/s00357-025-09511-8> 
 [Online full-text available at <https://rdcu.be/erWuX>]

@@ -10,7 +10,11 @@ mclust in R**, Chapman & Hall/CRC, ISBN: 978-1032234953.
 ## Journal articles {#journal-articles .unnumbered}
 
 ::: bibitem
-Tancini D., Scrucca, L., Bartolucci F. (2025) An algorithm aiming at
+Scrucca L. (2026) Mixture-based estimation of multivariate data
+hypervolume. **Statistical Analysis & Data Mining: An ASA Data Science
+Journal**, 19(3), e70092. <https://doi.org/10.1002/sam.70092>
+
+Tancini D., Scrucca L., Bartolucci F. (2025) An algorithm aiming at
 unimodal density-based clustering using Gaussian mixture models.
 **Statistics and Computing**, 35, 208.
 <https://doi.org/10.1007/s11222-025-10659-x>
