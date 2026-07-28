@@ -172,6 +172,19 @@ I'm the author and/or maintainer of several packages and functions written in [R
 
 # Teaching {#teaching}
 
+{{< iconify fa-solid chalkboard-teacher >}}  [**Statistica**](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2026/518617){target="_blank"}\
+      [Laurea in "Statistica, Finanza e Assicurazioni" (CLASFA)](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni){target="_blank"}
+
+{{< iconify fa-solid chalkboard-teacher >}}  [**Modelli Statistici per le Scienze Attuariali**](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2026/529451){target="_blank"}\
+      [Laurea Magistrale in "Scienze Statistiche, Finanziarie e Attuariali" (SSFA)](https://corsi.unibo.it/magistrale/ScienzeStatisticheFinanziarieAttuariali){target="_blank"}\
+
+{{< iconify fa-solid chalkboard-teacher >}}  [**Statistica Avanzata** (Modulo 2)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2026/529432){target="_blank"}\
+      [Laurea Magistrale in "Scienze Statistiche, Finanziarie e Attuariali" (SSFA)](https://corsi.unibo.it/magistrale/ScienzeStatisticheFinanziarieAttuariali){target="_blank"}\
+
+<br>
+
+**2025/2026**
+
 {{< iconify fa-solid chalkboard-teacher >}}  [**Statistica**](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/518617){target="_blank"}\
       [Laurea in "Statistica, Finanza e Assicurazioni" (CLASFA)](https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni){target="_blank"}
 <!-- https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/478297 -->

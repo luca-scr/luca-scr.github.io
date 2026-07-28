@@ -28,16 +28,6 @@ rmarkdown::pandoc_convert(
   input = "/Users/luca/Documents/CV/list_of_publications.tex",
   to = "markdown",
   output = paste0(getwd(), "/publications/index.qmd"))
-
-# OLD ----
-# cwd = getwd()
-# setwd("/Users/luca/Documents/www/content/publication/")
-# system("pandoc -f latex -t markdown /Users/luca/Documents/CV/list_of_publications.tex -o publications/index.qmd")
-# clean sections, bibitem, ...
-# sed -i '' 's/{#.*//' $FILEOUT
-# sed -i '' 's/:::.*//' $FILEOUT
-# system("./publication.sh")
-# setwd(cwd)
 ```
 
 3. Update list of "Selected publications":
