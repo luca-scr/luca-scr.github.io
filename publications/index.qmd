@@ -14,6 +14,16 @@ Scrucca L. (2026) Mixture-based estimation of multivariate data
 hypervolume. **Statistical Analysis & Data Mining: An ASA Data Science
 Journal**, 19(3), e70092. <https://doi.org/10.1002/sam.70092>
 
+Turzo T., Chirieleison C., Montrone A., Scrucca L. (2026) Beyond
+adoption: SA8000 decertification in the food industry, **British Food
+Journal**, 128(13), 810--828. <https://doi.org/10.1108/BFJ-02-2026-0262>
+
+Scrucca L. (2026) Assessing uncertainty in Gaussian mixtures-based
+entropy estimation. **Communications in Statistics - Simulation and
+Computation**, 55(9), 4073--4095.
+<https://doi.org/10.1080/03610918.2025.2509813>\
+arXiv pre-print available at <https://arxiv.org/abs/2405.17265>
+
 Tancini D., Scrucca L., Bartolucci F. (2025) An algorithm aiming at
 unimodal density-based clustering using Gaussian mixture models.
 **Statistics and Computing**, 35, 208.
@@ -31,11 +41,6 @@ Classification**. <https://doi.org/10.1007/s00357-025-09511-8>
 Scrucca L., Karlis D. (2025) A model-based approach to shot charts
 estimation in basketball. **Computational Statistics**, 40(1),
 2031---2048. <https://doi.org/10.1007/s00180-025-01599-1>
-
-Scrucca L. (2025) Assessing uncertainty in Gaussian mixtures-based
-entropy estimation. **Communications in Statistics - Simulation and
-Computation**, 1--23. <https://doi.org/10.1080/03610918.2025.2509813>\
-arXiv pre-print available at <https://arxiv.org/abs/2405.17265>
 
 Turzo T., Chirieleison C., Montrone A., Scrucca L. (2025) Sustainability
 standards and decertification: a Bayesian analysis of SA800. **Corporate
@@ -339,6 +344,15 @@ locale, n. 8, pp. 1--47.
 ## Conferences and workshops {#conferences-and-workshops .unnumbered}
 
 ::: bibitem
+Scrucca L. (2026) A Transformation-based Gaussian Mixture Approach for
+Density Estimation and Clustering of Bounded Data, **IFCS 2026**, 19th
+conference of the International Federation of Classification Societies,
+Milan, July 14--16, 2026.
+
+Scrucca L. (2026) Mixture-based Estimation of Multivariate Data
+Hypervolume, **Working Group on Model-Based Clustering**. Edmonton, July
+20--24, 2026.
+
 Scrucca L. (2025) A Model-based Clustering Approach for Bounded Data and
 Its Applications, **Working Group on Model-Based Clustering**. Nice,
 July 21--25, 2025.
