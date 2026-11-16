@@ -31,7 +31,7 @@ about:
       text: Github
       href: https://github.com/luca-scr
     - icon: bluesky
-      text: "{{< iconify fa6-brands bluesky >}} Bluesky"
+      text: "Bluesky"
       href: https://bsky.app/profile/luca-scr.bsky.social
     - icon: linkedin
       text: LinkedIn
